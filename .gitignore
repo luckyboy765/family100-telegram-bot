@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.session
+*.session-journal
+family100_stats.db
+active_games.json
+chats.json
+.env
